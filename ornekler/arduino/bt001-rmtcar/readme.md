@@ -1,0 +1,1 @@
+BLUETOOTH HC-05 modulü ve ROBOSV1 robot kartý ile uzaktan kumandalý araba uygulamasýdýr.
